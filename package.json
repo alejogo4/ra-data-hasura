@@ -6,12 +6,12 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasura/ra-data-hasura.git"
+    "url": "git+https://github.com/alejogo4/ra-data-hasura"
   },
   "bugs": {
-    "url": "https://github.com/hasura/ra-data-hasura/issues"
+    "url": "https://github.com/alejogo4/ra-data-hasura/issues"
   },
-  "homepage": "https://github.com/hasura/ra-data-hasura#readme",
+  "homepage": "https://github.com/alejogo4/ra-data-hasura#readme",
   "authors": [
     "Praveen Durairaju",
     "Radcliffe Robinson"
